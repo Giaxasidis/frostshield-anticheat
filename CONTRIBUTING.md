@@ -1,4 +1,4 @@
-## Contributing
+## Contributing to FrostShield AntiCheat
 
 Thank you for your interest in contributing. Please read this document carefully before submitting any contributions.
 
@@ -23,110 +23,77 @@ Only the following individuals may contribute code or documentation:
 
 All contributions from authorized collaborators remain the property of the project owner.
 
-## Reporting Issues
-
-### Allowed Reports
-
-| Type | Channel |
-|------|---------|
-| Bug reports | GitHub Issues |
-| Security vulnerabilities | Email / Discord (see SECURITY.md) |
-| Feature requests | GitHub Discussions |
-| Documentation errors | GitHub Issues |
-
-### Issue Report Template
-
-When creating an issue, include:
-
-```
-**Description:**
-[Clear description of the issue]
-
-**Steps to Reproduce:**
-1. Go to '...'
-2. Click on '...'
-3. See error
-
-**Expected Behavior:**
-[What should happen]
-
-**Actual Behavior:**
-[What actually happens]
-
-**Environment:**
-- Browser: [e.g. Chrome 120]
-- OS: [e.g. Windows 11]
-- Device: [e.g. Desktop]
-
-**Screenshots:**
-[If applicable]
-```
-
-## Pull Requests
-
-**External pull requests are not accepted.**
-
-Internal pull requests (authorized collaborators only) must follow these requirements:
-
-| Requirement | Status |
-|-------------|--------|
-| Code passes linting | Required |
-| No breaking changes | Required |
-| Documentation updated | Required |
-| Tested locally | Required |
-| Reviewed by owner | Required |
-
-## Development Standards
-
-### Code Style
+### Code Style Requirements
 
 | Aspect | Standard |
 |--------|----------|
-| Language | TypeScript |
-| Linting | ESLint (project configuration) |
-| Formatting | Prettier (if configured) |
-| Comments | JSDoc for public functions |
+| Indentation | 4 spaces (no tabs) |
+| Braces | Same line (K&R style) |
+| Line length | Maximum 120 characters |
+| Javadoc | Required for all public methods |
+| Package naming | `com.kaloudasdev.frostshield.*` |
+| Class naming | PascalCase |
+| Method/Variable naming | camelCase |
+| Constants | UPPER_SNAKE_CASE |
 
-### Commit Messages
+## Development Standards
 
-Format:
+### Code Example
 
+```java
+/**
+ * Speed detection check.
+ * Monitors player movement for speed hacks and acceleration cheats.
+ */
+public class Speed extends Check {
+    
+    private static final double MAX_HORIZONTAL_SPEED = 0.55;
+    private static final int VIOLATION_THRESHOLD = 20;
+    
+    /**
+     * Checks player movement for speed violations.
+     *
+     * @param player The player to check
+     * @param moveEvent The movement event data
+     */
+    @Override
+    public void check(Player player, MoveEvent moveEvent) {
+        double horizontalSpeed = calculateHorizontalSpeed(moveEvent);
+        
+        if (horizontalSpeed > MAX_HORIZONTAL_SPEED) {
+            handleViolation(player, horizontalSpeed);
+        }
+    }
+    
+    private double calculateHorizontalSpeed(MoveEvent event) {
+        // Implementation here
+        return 0.0;
+    }
+}
 ```
-<type>: <subject>
 
-<body (optional)>
+### Testing Requirements
 
-<footer (optional)>
-```
+| Test Type | Required |
+|-----------|----------|
+| Local server test | Yes |
+| No console errors | Yes |
+| No performance degradation | Yes |
+| No false positives with legit players | Yes |
+| Detection accuracy with known cheats | Yes |
 
-Types:
+## Documentation Standards
 
-| Type | Use |
-|------|-----|
-| feat | New feature |
-| fix | Bug fix |
-| docs | Documentation only |
-| style | Code style (formatting, semicolons, etc.) |
-| refactor | Code change that neither fixes nor adds feature |
-| perf | Performance improvement |
-| test | Adding or updating tests |
-| chore | Maintenance tasks |
+When updating documentation:
 
-Example:
-
-```
-feat(auth): add Discord OAuth login button
-
-- Implement Sign In with Discord button
-- Add session management
-- Update user profile display
-
-Closes #42
-```
-
-## Feature Requests
-
-Feature requests are welcome but not guaranteed to be implemented. The owner reserves the right to accept, reject, or postpone any feature request.
+| Document | Update Required When |
+|----------|---------------------|
+| `README.md` | Features, requirements, or installation changes |
+| `docs/CONFIGURATION.md` | Configuration options change |
+| `docs/DETECTION_MODULES.md` | Checks are added, removed, or modified |
+| `docs/COMMANDS.md` | Commands or permissions change |
+| `docs/API.md` | API methods change |
+| `SECURITY.md` | Security policies change |
 
 ## Code of Conduct
 
@@ -137,7 +104,7 @@ All contributors must adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 For questions about contributing, contact:
 
 **KaloudasDev**  
-Email: `kaloudasdev@gmail.com`  
-Discord: `@kaloudasdev`
+Discord: `@kaloudasdev`  
+Email: `kaloudasdev@gmail.com`
 
 *This document applies to all contributors.*

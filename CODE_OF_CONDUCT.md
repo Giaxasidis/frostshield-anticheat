@@ -14,11 +14,11 @@ Examples of behavior that contributes to a positive environment:
 
 | Behavior | Description |
 |----------|-------------|
-| Respectful communication | Using welcoming and inclusive language |
-| Constructive feedback | Providing criticism that is kind, specific, and actionable |
-| Collaborative spirit | Working together to solve problems |
-| Professionalism | Focusing on what is best for the project and community |
-| Empathy | Showing consideration for other contributors |
+| **Respectful communication** | Using welcoming and inclusive language |
+| **Constructive feedback** | Providing criticism that is kind, specific, and actionable |
+| **Collaborative spirit** | Working together to solve problems |
+| **Professionalism** | Focusing on what is best for the project and community |
+| **Empathy** | Showing consideration for other contributors |
 
 ### Unacceptable Behavior
 
@@ -58,8 +58,8 @@ Report unacceptable behavior to:
 
 | Method | Contact |
 |--------|---------|
+| Discord | `@kaloudasdev` (direct message) |
 | Email | `kaloudasdev@gmail.com` |
-| Discord | `@kaloudasdev` |
 
 ### What to Include
 
@@ -124,13 +124,12 @@ This Code of Conduct is adapted from:
 
 This Code of Conduct applies to conduct within project spaces. Behavior outside project spaces may also be considered when it negatively affects the safety or well-being of community members.
 
-
 ## Contact
 
 For any questions about this Code of Conduct, please contact:
 
 **KaloudasDev**  
-Email: `kaloudasdev@gmail.com`  
 Discord: `@kaloudasdev`
+Email: `kaloudasdev@gmail.com`
 
-*This Code of Conduct applies to all participants in the FrostShield Roleplay Website project.*
+*This Code of Conduct applies to all participants in the FrostShield AntiCheat project.*
