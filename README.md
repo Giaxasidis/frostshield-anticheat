@@ -141,7 +141,6 @@ boolean isBanned = FrostShield.getInstance()
 |---------|------|
 | **Discord** | [Contact me on Discord](https://discord.com/users/1069279857072160921) |
 | **Email** | kaloudasdev@gmail.com |
-| **GitHub** | [Report any possible bugs](https://github.com/KaloudasDev) |
 
 ## Legal
 
