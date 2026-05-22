@@ -1,4 +1,4 @@
-## ❄️ FrostShield AntiCheat - Freeze every cheat. Forever.
+## ❄️ FrostShield AntiCheat - Freeze every cheat forever.
 
 [![Spigot 1.16.5](https://img.shields.io/badge/Spigot-1.16.5-orange.svg?logo=spigotmc&logoColor=orange)](https://www.spigotmc.org/)
 [![Java 17](https://img.shields.io/badge/Java-17-blue.svg?logo=openjdk&logoColor=white)](https://adoptium.net/)
