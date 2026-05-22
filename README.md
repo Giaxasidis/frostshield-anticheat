@@ -3,7 +3,7 @@
 [![Spigot 1.16.5](https://img.shields.io/badge/Spigot-1.16.5-orange.svg?logo=spigotmc&logoColor=orange)](https://www.spigotmc.org/)
 [![Java 17](https://img.shields.io/badge/Java-17-blue.svg?logo=openjdk&logoColor=white)](https://adoptium.net/)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
-[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)](https://github.com/KaloudasDev/frostshield/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/KaloudasDev/frostshield/releases)
 
 **Freeze every cheat. Forever.**
 
