@@ -1,0 +1,23 @@
+name: FrostShield
+version: 1.0.0
+main: com.kaloudasdev.frostshield.FrostShield
+api-version: 1.16
+author: kaloudasdev
+description: FrostShield -  AntiCheat System
+
+commands:
+  fs:
+    description: Main FrostShield command
+    usage: /fs <ban/unban/banlist/baninfo/kick/lookup/alert/notify/reload/stats/checks/toggle>
+    aliases: [frostshield, frostshield]
+
+permissions:
+  frostshield.admin:
+    description: Full access to FrostShield
+    default: op
+  frostshield.notify:
+    description: Receive cheat alerts
+    default: op
+  frostshield.bypass:
+    description: Bypass all anticheat checks
+    default: false

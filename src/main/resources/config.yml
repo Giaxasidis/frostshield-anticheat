@@ -1,0 +1,127 @@
+settings:
+  debug: false
+  auto-ban: true
+  max-violations: 50
+  alert-enabled: true
+  log-to-file: true
+
+discord:
+  webhook-url: "DISCORD_WEBHOOK_URL"
+  enabled: false
+
+punishments:
+  ban-message: "&c&l[FrostShield] &fYou were banned for cheating! (Check: %check%, VL: %vl%)"
+  kick-message: "&c&l[FrostShield] &fCheating detected: %check% (VL: %vl%)"
+  warn-message: "&c&l[FrostShield] &fCheating detected: %check% (VL: %vl%/%max%)"
+  alert-message: "&c&l[FrostShield] &f%player% &7failed &c%check% &7(VL: %vl%/%max%)"
+
+checks:
+  movement:
+    enabled: true
+    speed:
+      max-speed: 0.55
+      violations-before-punish: 20
+    fly:
+      max-air-ticks: 10
+      violations-before-punish: 15
+    nofall:
+      enabled: true
+      violations-before-punish: 10
+    jesus:
+      enabled: true
+      violations-before-punish: 12
+    step:
+      enabled: true
+      violations-before-punish: 15
+    velocity:
+      enabled: true
+      violations-before-punish: 15
+    spider:
+      enabled: true
+      violations-before-punish: 15
+    glide:
+      enabled: true
+      violations-before-punish: 12
+    highjump:
+      enabled: true
+      violations-before-punish: 12
+    waterwalk:
+      enabled: true
+      violations-before-punish: 10
+    prediction:
+      enabled: true
+      violations-before-punish: 10
+  combat:
+    enabled: true
+    reach:
+      max-distance: 4.2
+      violations-before-punish: 15
+    killaura:
+      max-angles: 45
+      violations-before-punish: 10
+    autoclicker:
+      max-cps: 20
+      violations-before-punish: 12
+    aimassist:
+      enabled: true
+      violations-before-punish: 10
+    hitbox:
+      enabled: true
+      violations-before-punish: 15
+    antiknockback:
+      enabled: true
+      violations-before-punish: 12
+    criticals:
+      enabled: true
+      violations-before-punish: 12
+    triggerbot:
+      enabled: true
+      violations-before-punish: 10
+  packet:
+    enabled: true
+    timer:
+      max-packet-rate: 22
+      violations-before-punish: 10
+    badpackets:
+      enabled: true
+      violations-before-punish: 8
+    blink:
+      enabled: true
+      violations-before-punish: 12
+    packetorder:
+      enabled: true
+      violations-before-punish: 8
+  world:
+    enabled: true
+    nuker:
+      enabled: true
+      violations-before-punish: 12
+    fastbreak:
+      enabled: true
+      violations-before-punish: 10
+    fastplace:
+      enabled: true
+      violations-before-punish: 10
+    scaffold:
+      enabled: true
+      violations-before-punish: 12
+    phase:
+      enabled: true
+      violations-before-punish: 10
+    ghosthand:
+      enabled: true
+      violations-before-punish: 10
+  paranormal:
+    enabled: true
+    esp:
+      enabled: true
+      violations-before-punish: 15
+    chestaura:
+      enabled: true
+      violations-before-punish: 12
+    boatfly:
+      enabled: true
+      violations-before-punish: 12
+    elytrafly:
+      enabled: true
+      violations-before-punish: 10
