@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-This project is dedicated to providing a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+This project is dedicated to providing a harassment-free experience for everyone, regardless of age, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We do not tolerate harassment of contributors or users in any form. This code of conduct applies to all project spaces, including issue trackers, discussions, pull requests, and any other communication channels associated with this project.
 
@@ -48,7 +48,7 @@ Violations occurring outside official channels may still impact a person's parti
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing this Code of Conduct. They have the right to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct.
+Project maintainers are responsible for clarifying and enforcing this Code of Conduct. They have the right to remove, edit, or reject comments, commits, code, wiki and other contributions that do not align with this Code of Conduct.
 
 ## Reporting Guidelines
 
@@ -128,8 +128,8 @@ This Code of Conduct applies to conduct within project spaces. Behavior outside 
 
 For any questions about this Code of Conduct, please contact:
 
-**KaloudasDev**  
-Discord: `@kaloudasdev`
-Email: `kaloudasdev@gmail.com`
+**KaloudasDev**    
+Discord: `@kaloudasdev`  
+Email: `kaloudasdev@gmail.com`  
 
 *This Code of Conduct applies to all participants in the FrostShield AntiCheat project.*

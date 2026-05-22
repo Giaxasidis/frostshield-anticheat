@@ -56,16 +56,16 @@ nano plugins/FrostShield/config.yml
 
 # General plugin settings
 settings:
-  debug: false                    # Enable debug logging (highly verbose)
-  auto-ban: true                  # Automatically ban at max violations
-  max-violations: 50              # Violation threshold before punishment
-  alert-enabled: true             # Show cheat alerts to staff
-  log-to-file: true               # Write violations to log file
+  debug: false
+  auto-ban: true
+  max-violations: 50
+  alert-enabled: true
+  log-to-file: true
 
 # Discord webhook integration (optional)
 discord:
-  webhook-url: "DISCORD_WEBHOOK_URL"  # Discord webhook endpoint
-  enabled: false                       # Toggle Discord notifications
+  webhook-url: "DISCORD_WEBHOOK_URL"
+  enabled: false
 
 # Punishment message templates
 punishments:
