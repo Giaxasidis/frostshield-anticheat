@@ -7,7 +7,7 @@
 
 **Freeze every cheat. Forever.**
 
-FrostShield is a high-performance, advanced anti-cheat plugin for mMinecraft servers running Spigot 1.16.5. It provides comprehensive cheat detection with minimal performance impact, protecting your server from hackers and unfair advantages.
+FrostShield is a high-performance, advanced anti-cheat plugin for mMinecraft servers running Spigot 1.16.5. It provides comprehensive cheat detection with minimal performance impact, protecting your server from cheaters.
 
 ## Quick Start
 
