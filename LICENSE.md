@@ -1,13 +1,13 @@
 ## Proprietary Software License
 
-**Copyright © 2026 KaloudasDev. All Rights Reserved.**
+**Copyright © 2026 Giaxasidis. All Rights Reserved.**
 
 ## 1. Definitions
 
 | Term | Definition |
 |------|------------|
 | **"Software"** | FrostShield AntiCheat, including all source code, compiled binaries, configuration files, documentation, assets, and any associated files |
-| **"Owner"** | KaloudasDev |
+| **"Owner"** | Giaxasidis |
 | **"You"** | Any person or entity accessing or possessing the Software |
 | **"Authorized User"** | Only the Owner. No other person or entity is authorized |
 
@@ -149,16 +149,6 @@ If any provision of this License is found to be unenforceable, the remaining pro
 
 Failure to enforce any provision of this License shall not constitute a waiver of such provision.
 
-## 15. Contact
-
-For license inquiries, contact:
-
-**KaloudasDev**  
-Discord: `@kaloudasdev`  
-Email: `kaloudasdev@gmail.com`
-
-**© 2026 KaloudasDev – All Rights Reserved.**
+**© 2026 Giaxasidis – All Rights Reserved.**
 
 **No portion of this software may be copied, distributed, modified, or used without explicit written permission from the Owner.**
-
-**Violators will be prosecuted to the fullest extent of the law.**
