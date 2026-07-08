@@ -50,31 +50,6 @@ Violations occurring outside official channels may still impact a person's parti
 
 Project maintainers are responsible for clarifying and enforcing this Code of Conduct. They have the right to remove, edit, or reject comments, commits, code, wiki and other contributions that do not align with this Code of Conduct.
 
-## Reporting Guidelines
-
-### How to Report
-
-Report unacceptable behavior to:
-
-| Method | Contact |
-|--------|---------|
-| Discord | `@kaloudasdev` (direct message) |
-| Email | `kaloudasdev@gmail.com` |
-
-### What to Include
-
-When filing a report, provide:
-
-| Information | Required |
-|-------------|----------|
-| Name or username of the individual involved | Yes |
-| Description of the incident | Yes |
-| Links to relevant messages or content | Yes |
-| Any screenshots or evidence | Recommended |
-| Witnesses (if any) | Optional |
-
-All reports will be reviewed and investigated promptly and fairly.
-
 ### Confidentiality
 
 All reports are treated with strict confidentiality. The reporter's identity will not be shared with the reported individual without explicit consent.
@@ -102,16 +77,6 @@ Depending on the severity and context of the violation, the following actions ma
 | **Issue/PR Locking** | Closing and preventing further interaction on a specific thread |
 | **Content Removal** | Deleting offensive comments, issues, or contributions |
 
-## Appeals
-
-If you believe an enforcement action was applied incorrectly, you may appeal by:
-
-1. Submitting an appeal to `kaloudasdev@gmail.com` within 14 days of the action
-2. Explaining why the action should be reconsidered
-3. Providing any additional context or evidence
-
-The project owner will review the appeal and respond within 10 business days. Appeal decisions are final.
-
 ## Attribution
 
 This Code of Conduct is adapted from:
@@ -123,13 +88,5 @@ This Code of Conduct is adapted from:
 ## Scope Limitations
 
 This Code of Conduct applies to conduct within project spaces. Behavior outside project spaces may also be considered when it negatively affects the safety or well-being of community members.
-
-## Contact
-
-For any questions about this Code of Conduct, please contact:
-
-**KaloudasDev**    
-Discord: `@kaloudasdev`  
-Email: `kaloudasdev@gmail.com`  
 
 *This Code of Conduct applies to all participants in the FrostShield AntiCheat project.*
