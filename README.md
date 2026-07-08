@@ -1,11 +1,9 @@
-## ❄️ FrostShield AntiCheat - Freeze every cheat forever.
+## FrostShield AntiCheat - Freeze every cheat forever.
 
 [![Spigot 1.16.5](https://img.shields.io/badge/Spigot-1.16.5-orange.svg?logo=spigotmc&logoColor=orange)](https://www.spigotmc.org/)
 [![Java 17](https://img.shields.io/badge/Java-17-blue.svg?logo=openjdk&logoColor=white)](https://adoptium.net/)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/Giaxasidis/frostshield/releases)
-
-**Freeze every cheat. Forever.**
 
 FrostShield is a high-performance, advanced anti-cheat plugin for mMinecraft servers running Spigot 1.16.5. It provides comprehensive cheat detection with minimal performance impact, protecting your server from cheaters.
 
@@ -142,5 +140,3 @@ This plugin is **proprietary software**. See [LICENSE.md](LICENSE.md) for comple
 - No copying, modification, or distribution without explicit written permission
 - Commercial use is prohibited without licensing agreement
 - Reverse engineering is strictly forbidden
-
-**Maintained by [Giaxasidis](https://github.com/Giaxasidis)**
