@@ -47,7 +47,7 @@ Without the Owner's prior **explicit, written, signed, and notarized consent**, 
 
 ### 3.5 Credit & Attribution
 - **MUST give credit** to the Owner in any and all contexts where the Software is mentioned, referenced, or discussed
-- Credit must include: `FrostShield AntiCheat by KaloudasDev`
+- Credit must include: `FrostShield AntiCheat by Giaxasidis`
 - Credit must be displayed prominently, not hidden in footers or terms of service
 - Failure to give proper credit is a violation of this License
 

@@ -22,7 +22,7 @@ Displays plugin information:
 
 ```
 FrostShield AntiCheat v2.0.0
-Author: KaloudasDev
+Author: Giaxasidis
 Status: Active
 Checks Loaded: 40+
 Alerts: Enabled

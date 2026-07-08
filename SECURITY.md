@@ -13,13 +13,6 @@ Only the latest stable release receives security updates. Users must upgrade to 
 
 **Do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-### Reporting Channels
-
-| Method | Contact |
-|--------|---------|
-| Discord | `@kaloudasdev` (direct message) |
-| Email | `kaloudasdev@gmail.com` |
-
 ### Report Requirements
 
 Include the following information:
@@ -104,13 +97,5 @@ Security researchers who report valid, previously unknown vulnerabilities will b
 - Added to the security acknowledgments section in the documentation
 - Credited in release notes
 - Mentioned on Discord (upon request)
-
-## Contact
-
-For any security-related inquiries, please contact:
-
-**KaloudasDev**  
-Discord: `@kaloudasdev`  
-Email: `kaloudasdev@gmail.com`
 
 *This security policy is effective as of 2026 and applies to all versions of FrostShield AntiCheat.*

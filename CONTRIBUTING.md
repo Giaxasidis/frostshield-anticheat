@@ -18,7 +18,7 @@ This project is **proprietary software**. Contribution privileges are granted on
 
 Only the following individuals may contribute code or documentation:
 
-- The project owner (KaloudasDev)
+- The project owner (Giaxasidis)
 - Explicitly authorized collaborators with written permission
 
 All contributions from authorized collaborators remain the property of the project owner.
@@ -31,7 +31,7 @@ All contributions from authorized collaborators remain the property of the proje
 | Braces | Same line (K&R style) |
 | Line length | Maximum 120 characters |
 | Javadoc | Required for all public methods |
-| Package naming | `com.kaloudasdev.frostshield.*` |
+| Package naming | `com.giaxasidis.frostshield.*` |
 | Class naming | PascalCase |
 | Method/Variable naming | camelCase |
 | Constants | UPPER_SNAKE_CASE |
@@ -98,13 +98,5 @@ When updating documentation:
 ## Code of Conduct
 
 All contributors must adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-## Questions
-
-For questions about contributing, contact:
-
-**KaloudasDev**  
-Discord: `@kaloudasdev`  
-Email: `kaloudasdev@gmail.com`
 
 *This document applies to all contributors.*

@@ -12,7 +12,7 @@
 
 ### Step 1: Download the Plugin
 
-Download the latest `FrostShield-2.0.0.jar` from the [Releases](https://github.com/KaloudasDev/frostshield/releases) page.
+Download the latest `FrostShield-2.0.0.jar` from the [Releases](https://github.com/Giaxasidis/frostshield/releases) page.
 
 ### Step 2: Install on Your Server
 

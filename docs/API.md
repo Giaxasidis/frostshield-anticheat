@@ -13,11 +13,11 @@ depend: [FrostShield]
 ```xml
 <repository>
     <id>frostshield-repo</id>
-    <url>https://repo.kaloudasdev.com/releases</url>
+    <url>https://repo.giaxasidis.com/releases</url>
 </repository>
 
 <dependency>
-    <groupId>com.kaloudasdev</groupId>
+    <groupId>com.giaxasidis</groupId>
     <artifactId>FrostShield</artifactId>
     <version>2.0.0</version>
     <scope>provided</scope>
@@ -29,7 +29,7 @@ depend: [FrostShield]
 ### Getting Plugin Instance
 
 ```java
-import com.kaloudasdev.frostshield.FrostShield;
+import com.giaxasidis.frostshield.FrostShield;
 
 FrostShield frostShield = FrostShield.getInstance();
 ```
@@ -73,7 +73,7 @@ boolean isEnabled = checkManager.isCheckEnabled("speed");
 ### Event Listening
 
 ```java
-import com.kaloudasdev.frostshield.events.PlayerViolationEvent;
+import com.giaxasidis.frostshield.events.PlayerViolationEvent;
 
 @EventHandler
 public void onViolation(PlayerViolationEvent event) {

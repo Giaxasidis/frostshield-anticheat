@@ -3,7 +3,7 @@
 [![Spigot 1.16.5](https://img.shields.io/badge/Spigot-1.16.5-orange.svg?logo=spigotmc&logoColor=orange)](https://www.spigotmc.org/)
 [![Java 17](https://img.shields.io/badge/Java-17-blue.svg?logo=openjdk&logoColor=white)](https://adoptium.net/)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/KaloudasDev/frostshield/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/Giaxasidis/frostshield/releases)
 
 **Freeze every cheat. Forever.**
 
@@ -111,7 +111,7 @@ checks:
 
 ```bash
 # Clone the repository
-git clone https://github.com/KaloudasDev/frostshield.git
+git clone https://github.com/Giaxasidis/frostshield.git
 
 # Navigate to project directory
 cd frostshield
@@ -135,13 +135,6 @@ boolean isBanned = FrostShield.getInstance()
     .isPlayerBanned(player);
 ```
 
-## Support
-
-| Channel | Link |
-|---------|------|
-| **Discord** | [Contact me on Discord](https://discord.com/users/1069279857072160921) |
-| **Email** | kaloudasdev@gmail.com |
-
 ## Legal
 
 This plugin is **proprietary software**. See [LICENSE.md](LICENSE.md) for complete terms.
@@ -150,4 +143,4 @@ This plugin is **proprietary software**. See [LICENSE.md](LICENSE.md) for comple
 - Commercial use is prohibited without licensing agreement
 - Reverse engineering is strictly forbidden
 
-**Maintained by [KaloudasDev](https://github.com/KaloudasDev)**
+**Maintained by [Giaxasidis](https://github.com/Giaxasidis)**
