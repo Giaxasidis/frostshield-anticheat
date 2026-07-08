@@ -1,8 +1,8 @@
 name: FrostShield
 version: 1.0.0
-main: com.kaloudasdev.frostshield.FrostShield
+main: com.giaxasidis.frostshield.FrostShield
 api-version: 1.16
-author: kaloudasdev
+author: giaxasidis
 description: FrostShield -  AntiCheat System
 
 commands:

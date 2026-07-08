@@ -1,4 +1,4 @@
-package com.kaloudasdev.frostshield.data;
+package com.giaxasidis.frostshield.data;
 
 import java.util.*;
 

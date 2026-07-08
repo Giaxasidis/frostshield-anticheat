@@ -1,6 +1,6 @@
-package com.kaloudasdev.frostshield.utils;
+package com.giaxasidis.frostshield.utils;
 
-import com.kaloudasdev.frostshield.FrostShield;
+import com.giaxasidis.frostshield.FrostShield;
 import java.time.Instant;
 
 public class DiscordLogger {

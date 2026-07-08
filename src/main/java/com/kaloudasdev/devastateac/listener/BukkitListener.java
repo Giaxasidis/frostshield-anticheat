@@ -1,7 +1,7 @@
-package com.kaloudasdev.frostshield.listener;
+package com.giaxasidis.frostshield.listener;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.data.PlayerData;
 import org.bukkit.GameMode;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

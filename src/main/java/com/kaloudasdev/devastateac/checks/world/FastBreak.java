@@ -1,7 +1,7 @@
-package com.kaloudasdev.frostshield.checks.world;
+package com.giaxasidis.frostshield.checks.world;
 
-import com.kaloudasdev.frostshield.checks.Check;
-import com.kaloudasdev.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.checks.Check;
+import com.giaxasidis.frostshield.data.PlayerData;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 import org.bukkit.event.block.BlockBreakEvent;

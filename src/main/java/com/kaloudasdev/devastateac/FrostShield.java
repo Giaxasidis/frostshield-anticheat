@@ -1,14 +1,14 @@
-package com.kaloudasdev.frostshield;
+package com.giaxasidis.frostshield;
 
-import com.kaloudasdev.frostshield.checks.CheckManager;
-import com.kaloudasdev.frostshield.command.AdminCommand;
-import com.kaloudasdev.frostshield.command.DACCommandTabCompleter;
-import com.kaloudasdev.frostshield.data.PlayerDataManager;
-import com.kaloudasdev.frostshield.listener.BukkitListener;
-import com.kaloudasdev.frostshield.listener.JoinListener;
-import com.kaloudasdev.frostshield.punishment.PunishmentManager;
-import com.kaloudasdev.frostshield.utils.DiscordLogger;
-import com.kaloudasdev.frostshield.utils.Logger;
+import com.giaxasidis.frostshield.checks.CheckManager;
+import com.giaxasidis.frostshield.command.AdminCommand;
+import com.giaxasidis.frostshield.command.DACCommandTabCompleter;
+import com.giaxasidis.frostshield.data.PlayerDataManager;
+import com.giaxasidis.frostshield.listener.BukkitListener;
+import com.giaxasidis.frostshield.listener.JoinListener;
+import com.giaxasidis.frostshield.punishment.PunishmentManager;
+import com.giaxasidis.frostshield.utils.DiscordLogger;
+import com.giaxasidis.frostshield.utils.Logger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class FrostShield extends JavaPlugin {
@@ -25,7 +25,7 @@ public final class FrostShield extends JavaPlugin {
         saveDefaultConfig();
         
         Logger.log("&c&lFrostShield - Maximum Security AntiCheat");
-        Logger.log("&7Author: &fKaloudasDev");
+        Logger.log("&7Author: &Giaxasidis");
         Logger.log("&7Version: &f" + getDescription().getVersion());
         
         DiscordLogger.init();
@@ -61,7 +61,7 @@ public final class FrostShield extends JavaPlugin {
     @Override
     public void onDisable() {
         Logger.log("&8[FrostShield] &7Saving player data...");
-        Logger.log("&8[FrostShield] &cPlugin disabled - KaloudasDev");
+        Logger.log("&8[FrostShield] &cPlugin disabled - Giaxasidis");
     }
 
     public static FrostShield getInstance() { return instance; }

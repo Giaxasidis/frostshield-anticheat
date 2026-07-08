@@ -1,10 +1,10 @@
-package com.kaloudasdev.frostshield.checks.paranormal;
+package com.giaxasidis.frostshield.checks.paranormal;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 
-import com.kaloudasdev.frostshield.checks.Check;
-import com.kaloudasdev.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.checks.Check;
+import com.giaxasidis.frostshield.data.PlayerData;
 
 public class Freecam extends Check {
     

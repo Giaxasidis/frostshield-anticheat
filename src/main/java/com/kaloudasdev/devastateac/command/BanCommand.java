@@ -1,8 +1,8 @@
-package com.kaloudasdev.frostshield.command;
+package com.giaxasidis.frostshield.command;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.ban.BanManager;
-import com.kaloudasdev.frostshield.utils.Logger;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.ban.BanManager;
+import com.giaxasidis.frostshield.utils.Logger;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

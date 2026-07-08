@@ -1,4 +1,4 @@
-package com.kaloudasdev.frostshield.utils;
+package com.giaxasidis.frostshield.utils;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.awt.Color;

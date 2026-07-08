@@ -1,9 +1,9 @@
-package com.kaloudasdev.frostshield.checks;
+package com.giaxasidis.frostshield.checks;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.data.PlayerData;
-import com.kaloudasdev.frostshield.utils.DiscordLogger;
-import com.kaloudasdev.frostshield.utils.Logger;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.utils.DiscordLogger;
+import com.giaxasidis.frostshield.utils.Logger;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 

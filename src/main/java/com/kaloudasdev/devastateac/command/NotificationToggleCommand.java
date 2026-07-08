@@ -1,7 +1,7 @@
-package com.kaloudasdev.frostshield.command;
+package com.giaxasidis.frostshield.command;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.data.PlayerData;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

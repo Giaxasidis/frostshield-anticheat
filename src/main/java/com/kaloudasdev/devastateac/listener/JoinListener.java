@@ -1,9 +1,9 @@
-package com.kaloudasdev.frostshield.listener;
+package com.giaxasidis.frostshield.listener;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.ban.BanManager;
-import com.kaloudasdev.frostshield.utils.DiscordLogger;
-import com.kaloudasdev.frostshield.utils.Logger;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.ban.BanManager;
+import com.giaxasidis.frostshield.utils.DiscordLogger;
+import com.giaxasidis.frostshield.utils.Logger;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;

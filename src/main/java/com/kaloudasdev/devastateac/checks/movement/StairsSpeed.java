@@ -1,7 +1,7 @@
-package com.kaloudasdev.frostshield.checks.movement;
+package com.giaxasidis.frostshield.checks.movement;
 
-import com.kaloudasdev.frostshield.checks.Check;
-import com.kaloudasdev.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.checks.Check;
+import com.giaxasidis.frostshield.data.PlayerData;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;

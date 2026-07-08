@@ -1,9 +1,9 @@
-package com.kaloudasdev.frostshield.punishment;
+package com.giaxasidis.frostshield.punishment;
 
-import com.kaloudasdev.frostshield.FrostShield;
-import com.kaloudasdev.frostshield.data.PlayerData;
-import com.kaloudasdev.frostshield.utils.DiscordLogger;
-import com.kaloudasdev.frostshield.utils.Logger;
+import com.giaxasidis.frostshield.FrostShield;
+import com.giaxasidis.frostshield.data.PlayerData;
+import com.giaxasidis.frostshield.utils.DiscordLogger;
+import com.giaxasidis.frostshield.utils.Logger;
 import org.bukkit.BanList;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

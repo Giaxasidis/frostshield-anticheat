@@ -1,10 +1,10 @@
-package com.kaloudasdev.frostshield.checks;
+package com.giaxasidis.frostshield.checks;
 
-import com.kaloudasdev.frostshield.checks.movement.*;
-import com.kaloudasdev.frostshield.checks.combat.*;
-import com.kaloudasdev.frostshield.checks.packet.*;
-import com.kaloudasdev.frostshield.checks.world.*;
-import com.kaloudasdev.frostshield.checks.paranormal.*;
+import com.giaxasidis.frostshield.checks.movement.*;
+import com.giaxasidis.frostshield.checks.combat.*;
+import com.giaxasidis.frostshield.checks.packet.*;
+import com.giaxasidis.frostshield.checks.world.*;
+import com.giaxasidis.frostshield.checks.paranormal.*;
 import java.util.ArrayList;
 import java.util.List;
 
